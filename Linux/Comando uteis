@@ -1,0 +1,6 @@
+Para visualizar o diretorio que estamos usamos o comando ls -l 
+
+para se movimentar de um diretorio para outro usamos o comando cd / , exemplo " cd /home/manu " vamos para o seu usuario , pense em diretorio como pastas do windowns, eles são resumidamente isso
+
+para instalarmos alguma coisa usamos o comando apt install, exemplo " sudo apt install nginx ", tambem iremos utilizar esse comando para visualizar se podemos atualizar os aplicativos com o comando apt update ou se iremos 
+melhora-los com o comando apt upgrade
