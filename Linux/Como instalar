@@ -1,0 +1,8 @@
+"Olá Manu fiz esse repertorio para te ajudar o maximo possivel com quaisquer duvidas que voce possa ter, e pra começar vou te ensinar a como baixar o linux para voce utilizar na sua casa da maneira mais simples possivel" 
+
+Primeiro vamos até o Powershell do windowns, podemos usar o atalho Win + X e selecionar o Terminal (Administrador) para realizarmos os comandos, para instalar a nossa Maquina virtual (ou Instancia) linux usamos o comando
+
+wsl --install -d Ubuntu-24.04
+
+Aqui estamós utilizando o forma nativa de instalação para o uso das funcionalidades do linux dentro da sua propria maquina, porém se voce quiser utilizar ele com uma interface grafica para entender melhor o sistema podemos
+utilizar o Virtual-box, ele é um aplicativo feito para isso, pórem ele ocupa muito mais memoria e espaço do computador, só que para aprendizado ele é otimo ! 
