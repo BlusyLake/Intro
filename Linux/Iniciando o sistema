@@ -1,0 +1,3 @@
+Quando começamos sempre precisamos definir um usuario e senha, esse usuario será tambem o nome da sua maquina WSL, quando for colocar a senha ela não sera visivel então por favor não se esqueça dela de jeito nenhum kkkkkkkk
+
+sempre que voce quiser instalar alguma coisa voce devera dar o comando sudo apt install, a não ser que voce esteja no usuario root, o que não é muito recomendado, para entrar no usuario root usaremos o comando sudo su
