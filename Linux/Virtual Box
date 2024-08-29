@@ -1,0 +1,7 @@
+Para utilizar o virtual box você pode baixa-lo pelo site oficial https://www.virtualbox.org/ 
+
+O virtual box serve para voce emular uma maquina virtual (VM) de quaisquer sistemas operecionais que voce quiser ! incluindo windows, mac ou linux 
+
+Porem é necessarios ter a iso (Imagem ou instalador de um sistema operacional) para utiliza-lo, podemos conseguir a iso oficial do ubuntu atraves do seu site https://ubuntu.com/download/desktop 
+
+* LEMBRANDO QUE APESAR DE SER UMA MAQUINA VIRTUAL ELE EXIGE CERTA CAPACIDADE DO SEU HARDWARE REAL, ENTÃO TENTE CRIAR CENARIOS REIAS PARA O USO DAS MAQUINAS *
